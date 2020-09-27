@@ -4,14 +4,14 @@
 <p align="center">A prefinal year undergrad at SRM IST.</p>
 <p align="center">
 <a href="https://twitter.com/SyedZubairSU1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/SyedZubairSU1" height="30" width="30" /></a>
-<a href="https://www.linkedin.com/in/syed-zubair-msa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/syed-zubair-msa" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/syedzubair-msa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/syedzubair-msa" height="30" width="30" /></a>
 
 <a href="https://instagram.com/https://www.instagram.com/let.zubair4747/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/let.zubair4747" height="30" width="30" /></a>
 </p>
 
 <div align="center"><hr width=50% size=1% Align="center"></div>
 <div align="center">
-  <img src="https://in.pinterest.com/pin/10203536642607573/?nic_v2=1a1g1vbUK" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
+  <img src="https://i.pinimg.com/originals/70/3e/65/703e659906ce4c9cfc1e2ae51243a401.gif" align="center" height=50% width=50%/><hr width=50% size=1% Align="center"></div>
 
 <h3 align="center">You are visitor</h3>
 <p align="center"><img src="https://profile-counter.glitch.me/Zubair-droid/count.svg" alt="vistor count" height="50" /></p>
@@ -55,8 +55,8 @@
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vikramoff24&theme=radical)](https://github.com/vikramoff24/github-readme-stats)
-![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=vikramoff24&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zubair-droid&theme=radical)](https://github.com/Zubair-droid/github-readme-stats)
+![Vikram's Github Stats](https://github-readme-stats.vercel.app/api?username=Zubair-droid&show_icons=true&theme=radical)
 
 
 *NOTE: Top languages does not indicate my skill level, It's about the amount of code I uploaded in respective languages*
