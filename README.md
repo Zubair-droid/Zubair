@@ -6,7 +6,7 @@
 <a href="https://twitter.com/SyedZubairSU1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/SyedZubairSU1" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/syedzubair-msa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/syedzubair-msa" height="30" width="30" /></a>
 
-<a href="https://instagram.com/https://www.instagram.com/let.zubair4747/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/https://www.instagram.com/let.zubair4747" height="30" width="30" /></a>
+<a href="https://www.instagram.com/let.zubair4747/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/let.zubair4747" height="30" width="30" /></a>
 </p>
 
 <div align="center"><hr width=50% size=1% Align="center"></div>
