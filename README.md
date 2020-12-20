@@ -18,9 +18,10 @@
 ### Few things about me 
 
 - 🔭 I’m currently working on <b>MERN</b>
-- 🌱 I’m currently learning <b>Data Structures</b>
-- 👯 I’m looking to collaborate on <b>MERN Stack Projects</b>
-- 🤔 I’m looking for help with <b>Algorithms</b>
+- 🌱 Currently learning <b>Data Structures</b>
+- 👯 Looking to collaborate on <b>MERN Stack Projects</b>
+- 📱  Started working on android development projects
+- 🤔 Looking for help with <b>Algorithms</b>
 - 💬 Ask me about <b>Anything</b>
 - 😄 Pronouns:<b>He/him</b>
 - ⚡ Fun fact: <b>I'm a Programmer</b>
